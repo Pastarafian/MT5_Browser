@@ -1,8 +1,8 @@
-# MT5_Browser 🌐
+# MT5 Browser 🌐
 
 **A native, fully interactive Chromium browser engine built directly inside MetaTrader 5.**
 
-MT5_Browser bridges the gap between the isolated MQL5 ecosystem and the modern web. By utilizing an asynchronous Python Playwright backend and a high-performance File I/O Inter-Process Communication (IPC) bridge, this Expert Advisor renders web pages, intercepts inputs (mouse/keyboard), and streams 60fps framebuffers directly onto the MT5 Chart Canvas.
+MT5 Browser bridges the gap between the isolated MQL5 ecosystem and the modern web. By utilizing an asynchronous Python Playwright backend and a high-performance File I/O Inter-Process Communication (IPC) bridge, this Expert Advisor renders web pages, intercepts inputs (mouse/keyboard), and streams 60fps framebuffers directly onto the MT5 Chart Canvas.
 
 No WebRequests, no simple URL redirects—this is a true "Dumb Terminal" rendering engine inside MT5.
 
